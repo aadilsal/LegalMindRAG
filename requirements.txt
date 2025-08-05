@@ -1,0 +1,6 @@
+langchain
+langchain_groq
+faiss-cpu
+python-dotenv
+pipenv
+ollama
