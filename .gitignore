@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Pipenv
+Pipfile.lock
+
+# FAISS index files
+vectorstore/db_faiss/index.faiss
+vectorstore/db_faiss/index.pkl
+
+# Other
+*.log
+*.sqlite3
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
