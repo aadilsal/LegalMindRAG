@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit = "*"
 langchain = "*"
 langchain-core = "*"
 langchain-groq = "*"
@@ -12,6 +11,7 @@ pdfplumber = "*"
 langchain-community = "*"
 langchain-ollama = "*"
 faiss-cpu = "*"
+streamlit = "*"
 
 [dev-packages]
 
